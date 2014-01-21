@@ -1,13 +1,13 @@
 {
-	"modListVersion": 2,
-	"modList": [
+	"modinfoversion": 2,
+	"modlist": [
 		{
 			"modid": "MonsterSpawnHighlighter",
 			"name": "Monster Spawn Highlighter",
 			"description": "Highlight all blocks where monsters can spawn.",
 			"mcversion": "${mcversion}",
 			"version": "${version}",
-			"authorList": [
+			"authors": [
 				"Lunatrius"
 			],
 			"credits": "UltraMoogleMan",
@@ -19,7 +19,7 @@
 			"screenshots": [  ],
 			"updateUrl": "http://mc.lunatri.us/",
 			"url": "http://mc.lunatri.us/",
-			"useDependencyInformation": true
+			"useDependencyInformation": "true"
 		}
 	]
 }
